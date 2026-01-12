@@ -13,3 +13,5 @@ Filter by Department, Marital Status, Gender
 Visuals for Employee Count, Monthly Income, Total Working Years
 Pie charts for Gender-based Performance and Income by Marital Status
 Tabular employee breakdown
+
+Live Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiMGI0OTQ0MWMtOTBhZS00ZTI4LWE2MjktZDEyNjc2NWU2M2Q4IiwidCI6ImM4ZTQyNDhjLTcxNzQtNGIwZS04Y2Q4LTUzNGFhMDhkZjM5NSJ9
